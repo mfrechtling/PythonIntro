@@ -1,0 +1,2 @@
+<Request 'http://127.0.0.1:5000/findcommonletters' [POST]> {'h', 'o', 'n', 't'}
+<Request 'http://127.0.0.1:5000/countvowels' [POST]> [('a', 1), ('e', 3), ('i', 1), ('o', 1)]
